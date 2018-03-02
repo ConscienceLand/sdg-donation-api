@@ -1,0 +1,19 @@
+{
+  "name": "sdg-donation-api",
+  "version": "0.1.0",
+  "description": "SDG donation API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sven Mutzl",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.16.2",
+    "generate-password": "^1.4.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.4.2",
+    "requestify": "^0.2.5"
+  }
+}
